@@ -37,7 +37,7 @@ A modern, responsive e-commerce user interface built with Next.js 15, TypeScript
 1. **Clone the repository**
 
 ```bash
-git clone <https://github.com/NastyK21/techShop>
+git clone https://github.com/NastyK21/techShop
 
 ```
 
